@@ -407,7 +407,7 @@ new successfulSubmited(String.valueOf(marks), String.valueOf(totalQuestionsInt))
         jLabel20.setFont(new java.awt.Font("Algerian", 1, 25)); // NOI18N
         jLabel20.setForeground(new java.awt.Color(0, 0, 0));
         jLabel20.setText("Queston Demo?");
-        getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 150, 210, -1));
+        getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 150, 940, 40));
 
         jRadioButton1.setFont(new java.awt.Font("Algerian", 1, 25)); // NOI18N
         jRadioButton1.setForeground(new java.awt.Color(0, 0, 0));
