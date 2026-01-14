@@ -1,6 +1,6 @@
 # 🎓 BHU Examination Management System
 
-> A robust, secure, and dynamic Desktop Application designed to automate the examination process for **Bahu Dar University (BHU)**. Built with **Java (Swing)** and **MySQL**.
+> A robust, secure, and dynamic Desktop Application designed to automate the examination process for **Bule Hora University (BHU)**. Built with **Java (Swing)** and **MySQL**.
 
 Developed by: **[Your Full Name]**
 
