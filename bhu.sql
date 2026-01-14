@@ -196,14 +196,6 @@ INSERT INTO `student` (`rollNo`, `firstName`, `middleName`, `lastName`, `motherN
 ('0365/16', 'biruk', 'tadesse', 'eticha', 'mesi', 'Male', '0947395224', 'tadesebiruk515@gmail.com', 'Computer Science and Engineering', 'java', 'teji', '78', '2015', 'addis', 0),
 ('0366', 'biruk', 'tadesse', 'eticha', 'mesi', 'Male', '09473965224', 'tadessebitruk@gmail.com', 'Computer Science and Engineering', 'java', 'teji', '88', '2015', 'addis abeba ', 0),
 ('1122', 'abera', 'abebe', 'leta', 'mom', 'Male', '092345678', 'tasebit@gmail.com', 'Computer Science and Engineering', 'java', 'sdfg', '32', '2017', 'wello', 0),
-('12', 'Biruk', 'Tadesse', 'Ethicha', 'meseret', 'Male', '0947395224', 'tadessebiruk515@gmail.com', 'Computer Science and Engineering', 'Java', 'teji', '89', '2015', 'Addis Abeba/Yeka Abado/Woreda 14', 0),
-('1234', 'biruk', 'tadesse', 'eticha', 'mom', 'Male', '0947395224', 'tadessebiruk515@gmail.com', 'Computer Science and Engineering', 'jaava', 'teji', '91', '2015', 'addis abeba', 7),
-('2121', 'a', 'b', 'c', 'mom', 'Female', '3456789', 'fggjk@gmail.com', 'Computer Science and Engineering', 'java', 'teji', '56', '2016', 'sdtyui', 0),
-('3212', 'abebe', 'demise', 'tola', 'caltu', 'Male', '90987554', 'aaa@gmail.com', 'Computer Science and Engineering', 'java', 'jinka', '77', '2016', 'jinkka', 1),
-('4322', 'bir', 'tad', 'xxx', 'mom', 'Male', '0717395224', 'tadbir795@gmail.com', 'Computer Science and Engineering', 'java', 'addis', '77', '2017', 'addis abeba', 0),
-('4567', 'waqo', 'tafari', 'tola', 'mom', 'Male', '09345678', 'aaa556@gmail.com', 'Computer Science and Engineering', 'java', 'bariso', '56', '2017', 'bulehora', 10),
-('7777', 'fenet', 'gizaw', 'lema', 'aster', 'Male', '0954676847', 'aster34@gmail.com', 'Computer Science and Engineering', 'java', 'rofi', '66', '2016', 'bonga', 8),
-('ca', 'adc', 'ads', 'ds', 'asd', 'Male', 'asd', 'asd', 'Computer Science and Engineering', 'sad', 'sdad', 'asd', 'sdsad', 'ads', 0),
 ('s', 'sd', 'ad', 'ad', 'asd', 'Male', 'ads', 'asd', 'Computer Science and Engineering', 'ads', 'ad', 'asd', 'ads', 'asd', 0);
 
 --
