@@ -192,11 +192,7 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`rollNo`, `firstName`, `middleName`, `lastName`, `motherName`, `gender`, `contactNo`, `email`, `department`, `examCourse`, `schoolName12`, `percentage12`, `year12`, `address`, `marks`) VALUES
-('0365', 'Biruk', 'Tadesse', 'Eticha', 'meseret keba', 'Male', '0947395224', 'tadessebiruk515@gmail.com', 'Computer Science and Engineering', 'Java', 'Teji', '89', '2015', 'Addis Abeba/Yeka Abado/Woreda 14', 7),
-('0365/16', 'biruk', 'tadesse', 'eticha', 'mesi', 'Male', '0947395224', 'tadesebiruk515@gmail.com', 'Computer Science and Engineering', 'java', 'teji', '78', '2015', 'addis', 0),
-('0366', 'biruk', 'tadesse', 'eticha', 'mesi', 'Male', '09473965224', 'tadessebitruk@gmail.com', 'Computer Science and Engineering', 'java', 'teji', '88', '2015', 'addis abeba ', 0),
-('1122', 'abera', 'abebe', 'leta', 'mom', 'Male', '092345678', 'tasebit@gmail.com', 'Computer Science and Engineering', 'java', 'sdfg', '32', '2017', 'wello', 0),
-('s', 'sd', 'ad', 'ad', 'asd', 'Male', 'ads', 'asd', 'Computer Science and Engineering', 'ads', 'ad', 'asd', 'ads', 'asd', 0);
+('0365', 'Biruk', 'Tadesse', 'Eticha', 'meseret keba', 'Male', '0947395224', 'tadessebiruk515@gmail.com', 'Computer Science and Engineering', 'Java', 'Teji', '89', '2015', 'Addis Abeba/Yeka Abado/Woreda 14', 7);
 
 --
 -- Indexes for dumped tables
