@@ -62,11 +62,9 @@ This system eliminates manual paper-based exams by providing a digital platform.
 ---
 
 ## 📸 Application Screenshots  
-
-           ### ↘️Login page↙️
+            **↘️ Login page↙️**
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033036" src="https://github.com/user-attachments/assets/084bd8fe-ab02-4d8a-b9ae-ce2a2190d2c7" /><img width="1919" height="1079" alt="Screenshot 2026-01-14 033047" src="https://github.com/user-attachments/assets/e99956d1-0aea-4ea0-887e-14c3f58775e7" />
-
-           ## 🎟️Admin Login Page🎫 
+            **🎟️ Admin Login Page**
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033115" src="https://github.com/user-attachments/assets/3a191681-0ae2-44e6-9724-d1ec2e1373ef" />
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033136" src="https://github.com/user-attachments/assets/ce7a8ecf-f27a-4a4b-a9e4-7ab2e5882e82" />
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033151" src="https://github.com/user-attachments/assets/e44ff4e0-afe8-490c-9343-27008df801f5" />
@@ -77,7 +75,7 @@ This system eliminates manual paper-based exams by providing a digital platform.
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033307" src="https://github.com/user-attachments/assets/9fe29387-0761-4210-8884-66bf59436944" />
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033319" src="https://github.com/user-attachments/assets/ee77d5fe-36fd-4d1e-81ad-716d72d6081e" />
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033334" src="https://github.com/user-attachments/assets/7b3bd651-0072-4ded-b124-88eda358a60e" />
-         ## 📃 Student Exam Page 
+         **📃 Student Exam Page**
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033542" src="https://github.com/user-attachments/assets/f1aa3bd2-8e94-435e-935c-2daf0a333186" /><img width="1919" height="1079" alt="Screenshot 2026-01-14 033557" src="https://github.com/user-attachments/assets/cdc00406-33b9-4171-8e0a-4dc8df70a08d" />
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033612" src="https://github.com/user-attachments/assets/109dfccf-b8ad-4db1-b802-25950d9f0bde" />
 <img width="1919" height="1079" alt="Screenshot 2026-01-14 033745" src="https://github.com/user-attachments/assets/3c7e57dd-4c56-43b7-828e-cbf05b39dbf2" />
