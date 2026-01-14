@@ -2,7 +2,7 @@
 
 > A robust, secure, and dynamic Desktop Application designed to automate the examination process for **Bule Hora University (BHU)**. Built with **Java (Swing)** and **MySQL**.
 
-Developed by: **[Your Full Name]**
+Developed by: **[Biruk Tadesse]**
 
 ---
 
@@ -62,11 +62,12 @@ This system eliminates manual paper-based exams by providing a digital platform.
 ---
 
 ## 📸 Application Screenshots
-
-<!-- Add your screenshots links here. Drag and drop images into GitHub issue editor to get links -->
-| Login Page | Student Exam Page |
+<img width="1919" height="1079" alt="Screenshot 2026-01-14 033036" src="https://github.com/user-attachments/assets/084bd8fe-ab02-4d8a-b9ae-ce2a2190d2c7" />
+| Admin Login Page | Student Exam Page |
 | :---: | :---: |
-| *(Add Image Here)* | *(Add Image Here)* |
+| <img width="1919" height="1079" alt="Screenshot 2026-01-14 033047" src="https://github.com/user-attachments/assets/2391d452-16d0-44b3-8826-e8d1a9edb26d" />|
+ |<img width="1919" height="1079" alt="Screenshot 2026-01-14 033542" src="https://github.com/user-attachments/assets/78c14e30-54a0-418d-8151-91f603cb495f" />
+     |
 
 ---
 
