@@ -95,7 +95,8 @@ Follow these steps to run the project on your machine:
 1.  Open **phpMyAdmin** (http://localhost/phpmyadmin).
 2.  Create a new database named **`bhu`**.
 3.  Click on the **Import** tab.
-4.  Get the SQL file: 👉 **[View & Download bhu.sql](https://github.com/birru2217/BHU-Exam-Management-System/blob/main/bhu.sql)**5.  Upload the `bhu.sql` file and click **Go**.
+4.  Get the SQL file: 👉 **[View & Download bhu.sql](https://github.com/birru2217/BHU-Exam-Management-System/blob/main/bhu.sql)**
+5.  Upload the `bhu.sql` file and click **Go**.
     > *Note: The system supports both Port 3306 and 3307 automatically.**
 
 ### 3. Running the Application
